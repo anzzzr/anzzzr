@@ -1,14 +1,14 @@
 # anzzzr
 
+[![MasterHead](https://camo.githubusercontent.com/fa4354dacd24a3b7e426f67fe98232e0b0ab83037ce16b2b6a8ea1504776e46b/68747470733a2f2f626c6f672e6a6574627261696e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f476f5f383030313631313033393631313531352e676966)
+
 <h1 align="center">i'm anzer</h1>
 <h3 align="center">A Golang dev and a linux enthusiast</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
 
-- 🌱 I’m currently learning **Golang,HTMX**
+- I’m currently learning **Golang,HTMX**
 
-- 💬 Ask me about **Golang,HTMX,Kernel,linux**
-
-- 📫 How to reach me **anzerkhan1011@gmail.com**
+- How to reach me **anzerkhan1011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
