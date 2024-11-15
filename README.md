@@ -3,6 +3,7 @@
 <h1 align="center">i'm anzer</h1>
 <h3 align="center">A Golang dev and a linux enthusiast</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
+
 - 🌱 I’m currently learning **Golang,HTMX**
 
 - 💬 Ask me about **Golang,HTMX,Kernel,linux**
